@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.9.1](https://github.com/openai/openai-node/compare/v7.9.0...v7.9.1) (2026-09-02)
+
+
+### Documentation
+
+* add canonical SDK security model ([#2566](https://github.com/openai/openai-node/issues/2566)) ([e6a7468](https://github.com/openai/openai-node/commit/e6a746865acf9f836b9b21dbf10afcf81eb160b3))
+
 ## [7.9.0](https://github.com/openai/openai-node/compare/v7.8.0...v7.9.0) (2026-09-02)
 
 
